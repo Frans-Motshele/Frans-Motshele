@@ -1,62 +1,75 @@
 # Hi there, I'm Frans Motshele 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;Recent+NWU+Graduate;Turning+Ideas+Into+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F05032&center=true&vCenter=true&width=600&lines=Aspiring+DevOps+Engineer;Recent+NWU+Graduate;Automate.+Deploy.+Scale.+Repeat." alt="Typing SVG" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## ⚙️ About Me
 
 - 🏫 Recent graduate from **North-West University (NWU)**
-- 💻 Aspiring **Software Developer** passionate about building clean, functional applications
-- 🌱 Currently sharpening my skills in **full-stack development** and **software engineering fundamentals**
-- 🔭 Looking for opportunities to grow as a junior developer and contribute to real-world projects
-- 🤝 Open to collaboration on open-source projects
+- 🚀 Aspiring **DevOps Engineer** passionate about automation, CI/CD, and cloud infrastructure
+- 🌱 Currently learning **Docker, Kubernetes, Terraform & GitHub Actions**
+- 🔭 Building projects that bridge the gap between development and operations
+- 🤝 Open to junior DevOps / cloud roles, internships, and open-source contributions
 - 📍 South Africa
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-**Languages**
+**OS & Scripting**
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
-**Frontend**
+**Containers & Orchestration**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-**Backend & Databases**
+**CI/CD**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-**Tools & Platforms**
+**Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+**Infrastructure as Code**
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+**Monitoring & Logging**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+**Version Control**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ## 🚀 What I'm Working On
 
-- 🏗️ Building full-stack projects to grow my development portfolio
-- 📚 Strengthening my understanding of **data structures and algorithms**
-- 🧩 Practising clean code principles and software design patterns
-- 🌍 Looking for internship / junior developer opportunities to apply what I've learned
+- 🐳 Containerising applications with **Docker** and orchestrating with **Kubernetes**
+- 🔁 Building **CI/CD pipelines** using GitHub Actions
+- ☁️ Exploring **AWS** cloud services and infrastructure automation with **Terraform**
+- 📊 Setting up monitoring dashboards with **Prometheus & Grafana**
+- 📚 Studying for cloud certifications — **AWS Cloud Practitioner**
 
 ---
 <!--
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Frans-Motshele&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frans-Motshele&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
@@ -66,6 +79,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Frans-Motshele&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 -->
+---
+
+## 📜 Certifications (In Progress and Completed)
+
+| Certification | Provider | Status |
+|---|---|---|
+| Microsoft Azure Fundamentals | Azure Products | 🔄 In Progress |
+| Docker Essentials | Docker / KodeKloud | ✅ Completed |
+| Kubernetes for Beginners | KodeKloud | 🔄 In Progress |
 
 ---
 
@@ -83,3 +105,4 @@
   </a>
 </p>
 
+---
