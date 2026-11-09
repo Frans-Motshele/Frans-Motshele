@@ -85,7 +85,7 @@
 
 | Certification | Provider | Status |
 |---|---|---|
-| Microsoft Azure Fundamentals | Azure Products | 🔄 In Progress |
+| Microsoft Azure Fundamentals | Azure Products | ✅ Completed |
 | Docker Essentials | Docker / KodeKloud | ✅ Completed |
 | Kubernetes for Beginners | KodeKloud | 🔄 In Progress |
 
